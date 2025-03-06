@@ -4,6 +4,8 @@ Please help us add more px file database that we can use as test data.
 
 ## How to contribute
 
+> :exclamation: There is a limitation on files sizes so we are not able to add files over 50MB.
+
 The prefered was to contribute your test data is by a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 We would like your pull request to contain a subfolder to `databases` containing your test data.
